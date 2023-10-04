@@ -1,9 +1,11 @@
-.header {border: dashed; border; background-color: coral;color: blue;text-decoration: underline;}
+h1 {color: blue; background-color: firebrick;}
 
+h2 {color: violet;background-color: crimson;}
 
+#breakfast *{border: solid black;position: relative;}
+.Breakfast th {background-color: aqua;}
+.row-1 {background-color: dodgerblue;}
+.row-2 {background-color: aquamarine;}
+.row-3 {background-color: skyblue}
 
-.Breakfast table, th{background-color: aqua;border: solid black;}
-
-.row2 td {background-color: aqua; border: solid black;}
-
-.top1 {background-color: aquamarine;}
+img { height: 200px;position:absolute; left: 210px;}
