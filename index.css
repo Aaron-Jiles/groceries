@@ -1,2 +1,9 @@
-.header {border: dashed; border; background-color: coral;color: blue;}
+.header {border: dashed; border; background-color: coral;color: blue;text-decoration: underline;}
+
+
+
+.Breakfast table, th{background-color: aqua;border: solid black;}
+
+.row2 td {background-color: aqua; border: solid black;}
+
 .top1 {background-color: aquamarine;}
