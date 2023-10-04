@@ -2,10 +2,16 @@ h1 {color: blue; background-color: firebrick;}
 
 h2 {color: violet;background-color: crimson;}
 
-#breakfast *{border: solid black;position: relative;}
-.Breakfast th {background-color: aqua;}
+#breakfast *{border: solid black;}
+
+.Breakfast  th {background-color: aqua;}
+
+.Breakfast img {position:absolute; left :210px;height: 250px;}
+
 .row-1 {background-color: dodgerblue;}
+
 .row-2 {background-color: aquamarine;}
+
 .row-3 {background-color: skyblue}
 
-img { height: 200px;position:absolute; left: 210px;}
+.Lunch {border: solid teal; position: absolute; bottom: 200px;}
